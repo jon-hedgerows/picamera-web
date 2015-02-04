@@ -1,0 +1,55 @@
+{% extends "320base.html" %}
+{% block content %}
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0"
+width="426" height="240">
+    <param  name="movie"
+            value="/static/strobe/StrobeMediaPlayback.swf"> </param>
+    <param  name="flashvars"
+            value="src=rtmp://{{ my_hostname }}/preview/live
+                &streamType=live
+                &autoPlay=true
+                &controlBarAutoHide=true
+                &controlBarMode=floating
+                &playButtonOverlay=false
+                &showVideoInfoOverlayOnStartUp=false
+                &optimizeBuffering=false
+                &optimizeInitialIndex=false
+                &liveBufferTime=0.1
+                &liveDynamicStreamingBufferTime=0.1
+                &initialBufferTime=0.1
+                &expandedBufferTime=0.1
+                &minContinuousPlayback=0.1
+                &posterScaleMode=none
+                &scaleMode=none
+                &muted=true
+                &verbose=false
+                &enableStageVideo=false"> </param>
+    <param  name="allowFullScreen" value="true"></param>
+    <param  name="allowscriptaccess" value="always"></param>
+    <embed
+        src="/static/strobe/StrobeMediaPlayback.swf"
+        type="application/x-shockwave-flash"
+        allowscriptaccess="always" allowfullscreen="true" width="426" height="240"
+        flashvars="src=rtmp://{{ my_hostname }}/preview/live
+                &streamType=live
+                &autoPlay=true
+                &controlBarAutoHide=true
+                &controlBarMode=floating
+                &playButtonOverlay=false
+                &showVideoInfoOverlayOnStartUp=false
+                &optimizeBuffering=false
+                &optimizeInitialIndex=false
+                &liveBufferTime=0.1
+                &liveDynamicStreamingBufferTime=0.1
+                &initialBufferTime=0.1
+                &expandedBufferTime=0.1
+                &minContinuousPlayback=0.1
+                &posterScaleMode=none
+                &scaleMode=none
+                &muted=true
+                &verbose=false
+                &enableStageVideo=false">
+    </embed>
+</object>
+{% endblock %}
