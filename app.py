@@ -24,7 +24,7 @@ app.config.update(
 
 
 @app.route('/')
-def index():
+def home():
     """Camera home page."""
     links = [{'url': "/preview/", 'title': "Preview"},
              {'url': "/live/", 'title': "Live HD"},
@@ -75,7 +75,7 @@ def start_streams():
         cam = Camera(app.config)
     cam.start_preview_stream(app.config)
     cam.start_live_stream(app.config)
-    return ""
+    return render_template("redirect.html", redirect_to=url_for("home"))
 
 
 @app.route('/stop/')
@@ -86,7 +86,7 @@ def stop_streams():
         cam = Camera(app.config)
     cam.stop_preview_stream()
     cam.stop_live_stream()
-    return ""
+    return render_template("redirect.html", redirect_to=url_for("home"))
 
 
 @app.route('/random/')
