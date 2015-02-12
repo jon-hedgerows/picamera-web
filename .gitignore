@@ -52,3 +52,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# don't put hls streams in git
+static/live/preview/*
+static/live/hd/*

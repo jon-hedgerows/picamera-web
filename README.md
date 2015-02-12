@@ -1,2 +1,2 @@
 # picamera-web
-A web interface for the raspberry pi camera
+## a web interface for the Raspberry Pi camera

@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10130988-020e-46b2-a975-0500f10b3437" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Jon.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/live.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/picamera-web.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/redirecthome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/video.html" />
+      <change type="DELETED" beforePath="P:\workspace\picamera-web\lock_timeout.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/img/176x176.png" afterPath="$PROJECT_DIR$/static/320andup/img/176x176.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/img/410x230.png" afterPath="$PROJECT_DIR$/static/320andup/img/410x230.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/AdvertisementPlugin.swf" afterPath="$PROJECT_DIR$/static/strobe/AdvertisementPlugin.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/static/fa/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/GTrackPlugin.swf" afterPath="$PROJECT_DIR$/static/strobe/GTrackPlugin.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/MASTPlugin.swf" afterPath="$PROJECT_DIR$/static/strobe/MASTPlugin.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/OSMF.swc" afterPath="$PROJECT_DIR$/static/strobe/OSMF.swc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/SMILPlugin.swf" afterPath="$PROJECT_DIR$/static/strobe/SMILPlugin.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_Background.PNG" afterPath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_Background.PNG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_Background.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_Background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_BtOverGlow.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_BtOverGlow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_FULLS_Back_Norm.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_FULLS_Back_Norm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_FULLS_Back_Over.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_FULLS_Back_Over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_FULLS_Disabled.png" afterPath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_FULLS_Disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_FULLS_Norm.png" afterPath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_FULLS_Norm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_FULLS_Norm.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_FULLS_Norm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_FULLS_Over.png" afterPath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_FULLS_Over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_FULLS_Over.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_FULLS_Over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_PAUSE_Norm.png" afterPath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_PAUSE_Norm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_PAUSE_Norm.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_PAUSE_Norm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_PAUSE_Over.png" afterPath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_PAUSE_Over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_PAUSE_Over.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_PAUSE_Over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_PLAY_Norm.png" afterPath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_PLAY_Norm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_PLAY_Norm.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_PLAY_Norm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_PLAY_Over.png" afterPath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_PLAY_Over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_PLAY_Over.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_PLAY_Over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_ScrubBack.png" afterPath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_ScrubBack.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_ScrubBack.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_ScrubBack.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_ScrubLoad.png" afterPath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_ScrubLoad.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_ScrubLoad.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_ScrubLoad.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_ScrubMargi.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_ScrubMargi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_ScrubPlyd.png" afterPath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_ScrubPlyd.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_ScrubPlyd.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_ScrubPlyd.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_ScrubSrch.png" afterPath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_ScrubSrch.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_ScrubSrch.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_ScrubSrch.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_ScrubTab_N.png" afterPath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_ScrubTab_N.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_ScrubTab_N.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_ScrubTab_N.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_ScrubTab_O.png" afterPath="$PROJECT_DIR$/static/strobe/html5-images/SMP_Tablet_InCon_ScrubTab_O.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_ScrubTab_O.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_Tablet_InCon_ScrubTab_O.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_button.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_back.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_back_over.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_back_over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_button_fullscreen_table.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_button_fullscreen_table.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_over_effect.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_over_effect.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_pause.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_pause.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_pause_over.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_pause_over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_button_pause_tablet_nor.png" afterPath="$PROJECT_DIR$/static/strobe/tablet-images/incontext/SMP_button_pause_tablet_nor.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_play.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_play.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_play_over.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_play_over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_zoomin.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_zoomin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_zoomin_over.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_zoomin_over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_zoomout.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_zoomout.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_zoomout_over.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_button_zoomout_over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_main_background.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_main_background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_main_background_left.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_main_background_left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_main_background_right.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_main_background_right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_scrub_bar_center.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_scrub_bar_center.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_scrub_bar_loaded.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_scrub_bar_loaded.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_scrub_bar_margin.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_scrub_bar_margin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_scrub_bar_played.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_scrub_bar_played.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_scrub_bar_played_seek.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_scrub_bar_played_seek.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_scrub_tab.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_scrub_tab.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_scrub_tab_over.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_scrub_tab_over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_separator.png" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/SMP_separator.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/StrobeMediaPlayback.swf" afterPath="$PROJECT_DIR$/static/strobe/StrobeMediaPlayback.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/YouTubePlugin.swf" afterPath="$PROJECT_DIR$/static/strobe/YouTubePlugin.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/img/a-rss.png" afterPath="$PROJECT_DIR$/static/320andup/img/a-rss.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/images/adobe-lq.png" afterPath="$PROJECT_DIR$/static/strobe/images/adobe-lq.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/img/h/apple-touch-icon-144x144-precomposed.png" afterPath="$PROJECT_DIR$/static/320andup/img/h/apple-touch-icon-144x144-precomposed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/img/l/apple-touch-icon-precomposed.png" afterPath="$PROJECT_DIR$/static/320andup/img/l/apple-touch-icon-precomposed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/img/h/apple-touch-icon.png" afterPath="$PROJECT_DIR$/static/320andup/img/h/apple-touch-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/img/l/apple-touch-icon.png" afterPath="$PROJECT_DIR$/static/320andup/img/l/apple-touch-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/img/m/apple-touch-icon.png" afterPath="$PROJECT_DIR$/static/320andup/img/m/apple-touch-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/images/dynstream.png" afterPath="$PROJECT_DIR$/static/strobe/images/dynstream.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/expressInstall.swf" afterPath="$PROJECT_DIR$/static/strobe/expressInstall.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/static/320andup/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/static/fa/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/fonts/fontawesome-webfont.svgz" afterPath="$PROJECT_DIR$/static/320andup/fonts/fontawesome-webfont.svgz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/static/320andup/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/static/fa/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/static/320andup/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/static/fa/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/jquery.strobemediaplayback.png" afterPath="$PROJECT_DIR$/static/strobe/jquery.strobemediaplayback.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/images/music.jpg" afterPath="$PROJECT_DIR$/static/strobe/images/music.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/images/osmf_horizontal_red.png" afterPath="$PROJECT_DIR$/static/strobe/images/osmf_horizontal_red.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/images/playlist.jpg" afterPath="$PROJECT_DIR$/static/strobe/images/playlist.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/images/poster.png" afterPath="$PROJECT_DIR$/static/strobe/images/poster.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/images/poster1.png" afterPath="$PROJECT_DIR$/static/strobe/images/poster1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/images/poster2.jpg" afterPath="$PROJECT_DIR$/static/strobe/images/poster2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/images/progressive.png" afterPath="$PROJECT_DIR$/static/strobe/images/progressive.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/img/h/splash.png" afterPath="$PROJECT_DIR$/static/320andup/img/h/splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/img/l/splash.png" afterPath="$PROJECT_DIR$/static/320andup/img/l/splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/img/startup/startup-retina.png" afterPath="$PROJECT_DIR$/static/320andup/img/startup/startup-retina.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/img/startup/startup-tablet-landscape.png" afterPath="$PROJECT_DIR$/static/320andup/img/startup/startup-tablet-landscape.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/img/startup/startup-tablet-portrait.png" afterPath="$PROJECT_DIR$/static/320andup/img/startup/startup-tablet-portrait.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/img/startup/startup.png" afterPath="$PROJECT_DIR$/static/320andup/img/startup/startup.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/images/thumb1.jpg" afterPath="$PROJECT_DIR$/static/strobe/images/thumb1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/images/thumb2.jpg" afterPath="$PROJECT_DIR$/static/strobe/images/thumb2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/images/tooth.png" afterPath="$PROJECT_DIR$/static/strobe/images/tooth.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/images/vegetation.jpg" afterPath="$PROJECT_DIR$/static/strobe/images/vegetation.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/.gitignore" afterPath="$PROJECT_DIR$/static/320andup/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/1382.less" afterPath="$PROJECT_DIR$/static/320andup/less/1382.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/2x.less" afterPath="$PROJECT_DIR$/static/320andup/less/2x.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/css/320andup-local.css" afterPath="$PROJECT_DIR$/static/320andup/css/320andup-local.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/320andup-local.html" afterPath="$PROJECT_DIR$/static/320andup/320andup-local.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/css/320andup-sass-compass.css" afterPath="$PROJECT_DIR$/static/320andup/css/320andup-sass-compass.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/320andup-sass-compass.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/320andup-sass-compass.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/css/320andup-sass.css" afterPath="$PROJECT_DIR$/static/320andup/css/320andup-sass.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/320andup-sass.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/320andup-sass.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/css/320andup-scss-compass.css" afterPath="$PROJECT_DIR$/static/320andup/css/320andup-scss-compass.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/320andup-scss-compass.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/320andup-scss-compass.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/css/320andup-scss.css" afterPath="$PROJECT_DIR$/static/320andup/css/320andup-scss.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/320andup-scss.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/320andup-scss.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/css/320andup.css" afterPath="$PROJECT_DIR$/static/320andup/css/320andup.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/320andup.html" afterPath="$PROJECT_DIR$/static/320andup/320andup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/320andup.html" afterPath="$PROJECT_DIR$/templates/320andup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/320andup.less" afterPath="$PROJECT_DIR$/static/320andup/less/320andup.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/320base.html" afterPath="$PROJECT_DIR$/templates/320base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/320preview.html" afterPath="$PROJECT_DIR$/templates/320preview.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/320simple.html" afterPath="$PROJECT_DIR$/templates/320simple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/480.less" afterPath="$PROJECT_DIR$/static/320andup/less/480.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/600.less" afterPath="$PROJECT_DIR$/static/320andup/less/600.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/768.less" afterPath="$PROJECT_DIR$/static/320andup/less/768.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/992.less" afterPath="$PROJECT_DIR$/static/320andup/less/992.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COPYRIGHT.md" afterPath="$PROJECT_DIR$/COPYRIGHT.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE.md" afterPath="$PROJECT_DIR$/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/LICENSE.txt" afterPath="$PROJECT_DIR$/static/320andup/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/README.md" afterPath="$PROJECT_DIR$/static/320andup/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/StrobeMediaPlayback.html" afterPath="$PROJECT_DIR$/static/strobe/StrobeMediaPlayback.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_1382.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_1382.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_1382.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_1382.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_1382.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_1382.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_1382.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_1382.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_2x.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_2x.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_2x.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_2x.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_2x.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_2x.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_2x.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_2x.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_480.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_480.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_480.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_480.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_480.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_480.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_480.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_480.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_600.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_600.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_600.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_600.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_600.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_600.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_600.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_600.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_768.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_768.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_768.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_768.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_768.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_768.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_768.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_768.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_992.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_992.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_992.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_992.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_992.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_992.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_992.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_992.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/static/fa/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_buttons.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_buttons.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_buttons.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_buttons.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_buttons.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_buttons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_buttons.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_buttons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_colour.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_colour.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_colour.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_colour.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_colour.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_colour.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_colour.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_colour.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/scss/_core.scss" afterPath="$PROJECT_DIR$/static/fa/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_elements.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_elements.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_elements.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_elements.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_elements.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_elements.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_elements.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_elements.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/static/fa/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_font-awesome.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_font-awesome.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_font-awesome.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_font-awesome.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_font-awesome.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_font-awesome.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_forms.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_forms.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_forms.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_forms.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_forms.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_forms.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_forms.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_forms.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/scss/_icons.scss" afterPath="$PROJECT_DIR$/static/fa/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/scss/_larger.scss" afterPath="$PROJECT_DIR$/static/fa/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/scss/_list.scss" afterPath="$PROJECT_DIR$/static/fa/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_mixins.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_mixins.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_mixins.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_mixins.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_mixins.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_mixins.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/scss/_mixins.scss" afterPath="$PROJECT_DIR$/static/fa/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_modernizr.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_modernizr.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_modernizr.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_modernizr.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_modernizr.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_modernizr.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_modernizr.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_modernizr.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_page.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_page.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_page.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_page.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_page.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_page.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_page.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_page.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/scss/_path.scss" afterPath="$PROJECT_DIR$/static/fa/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_print.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_print.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_print.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_print.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_print.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_print.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_print.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_print.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_reset.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_reset.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_reset.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_reset.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_reset.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_reset.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_reset.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_reset.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/static/fa/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_site.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_site.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_site.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_site.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_site.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_site.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_site.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_site.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/scss/_spinning.scss" afterPath="$PROJECT_DIR$/static/fa/scss/_spinning.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/scss/_stacked.scss" afterPath="$PROJECT_DIR$/static/fa/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_tables.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_tables.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_tables.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_tables.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_tables.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_tables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_tables.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_tables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_texture.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_texture.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_texture.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_texture.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_texture.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_texture.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_texture.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_texture.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_typography.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_typography.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_typography.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_typography.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_typography.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_typography.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/upstarts/320andup-display-table/_upstart.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/upstarts/320andup-display-table/_upstart.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/upstarts/320andup-modules/_upstart.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/upstarts/320andup-modules/_upstart.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/upstarts/320andup-panels/_upstart.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/upstarts/320andup-panels/_upstart.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/upstarts/320andup-display-table/_upstart.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/upstarts/320andup-display-table/_upstart.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/upstarts/320andup-modules/_upstart.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/upstarts/320andup-modules/_upstart.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/upstarts/320andup-panels/_upstart.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/upstarts/320andup-panels/_upstart.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/upstarts/320andup-display-table/_upstart.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/upstarts/320andup-display-table/_upstart.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/upstarts/320andup-modules/_upstart.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/upstarts/320andup-modules/_upstart.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/upstarts/320andup-panels/_upstart.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/upstarts/320andup-panels/_upstart.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/upstarts/320andup-display-table/_upstart.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/upstarts/320andup-display-table/_upstart.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/upstarts/320andup-modules/_upstart.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/upstarts/320andup-modules/_upstart.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/upstarts/320andup-panels/_upstart.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/upstarts/320andup-panels/_upstart.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/_variables.sass" afterPath="$PROJECT_DIR$/static/320andup/sass/_variables.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/_variables.sass" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/_variables.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/_variables.scss" afterPath="$PROJECT_DIR$/static/320andup/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/_variables.scss" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/scss/_variables.scss" afterPath="$PROJECT_DIR$/static/fa/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/advertisement-demo.html" afterPath="$PROJECT_DIR$/static/strobe/advertisement-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/static/fa/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/buttons.less" afterPath="$PROJECT_DIR$/static/320andup/less/buttons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera_pi.py" afterPath="$PROJECT_DIR$/camera_pi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/colour.less" afterPath="$PROJECT_DIR$/static/320andup/less/colour.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/configuration.xml" afterPath="$PROJECT_DIR$/static/strobe/configuration.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/less/core.less" afterPath="$PROJECT_DIR$/static/fa/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/debug-mobile.html" afterPath="$PROJECT_DIR$/static/strobe/debug-mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/debug.html" afterPath="$PROJECT_DIR$/static/strobe/debug.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/mobile-images/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/static/strobe/mobile-images/_notes/dwsync.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/elements.less" afterPath="$PROJECT_DIR$/static/320andup/less/elements.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/embed-samples.html" afterPath="$PROJECT_DIR$/static/strobe/embed-samples.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/embed.html" afterPath="$PROJECT_DIR$/static/strobe/embed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/upstarts/320andup-modules/example.html" afterPath="$PROJECT_DIR$/static/320andup/less/upstarts/320andup-modules/example.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/upstarts/320andup-modules/example.html" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/upstarts/320andup-modules/example.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/upstarts/320andup-modules/example.html" afterPath="$PROJECT_DIR$/static/320andup/sass/upstarts/320andup-modules/example.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/upstarts/320andup-modules/example.html" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/upstarts/320andup-modules/example.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/upstarts/320andup-modules/example.html" afterPath="$PROJECT_DIR$/static/320andup/scss/upstarts/320andup-modules/example.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/less/fixed-width.less" afterPath="$PROJECT_DIR$/static/fa/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/css/font-awesome.css" afterPath="$PROJECT_DIR$/static/fa/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/font-awesome.less" afterPath="$PROJECT_DIR$/static/320andup/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/less/font-awesome.less" afterPath="$PROJECT_DIR$/static/fa/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/static/fa/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/static/fa/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/static/320andup/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/static/fa/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/forms.less" afterPath="$PROJECT_DIR$/static/320andup/less/forms.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/hello-world-javascript.html" afterPath="$PROJECT_DIR$/static/strobe/hello-world-javascript.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/hello-world-jquery-plugin.html" afterPath="$PROJECT_DIR$/static/strobe/hello-world-jquery-plugin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/js/helper.js" afterPath="$PROJECT_DIR$/static/320andup/js/helper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home.html" afterPath="$PROJECT_DIR$/templates/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/humans.txt" afterPath="$PROJECT_DIR$/static/320andup/humans.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/less/icons.less" afterPath="$PROJECT_DIR$/static/fa/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/index-local.html" afterPath="$PROJECT_DIR$/static/320andup/index-local.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/index.html" afterPath="$PROJECT_DIR$/static/320andup/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/upstarts/320andup-display-table/index.html" afterPath="$PROJECT_DIR$/static/320andup/less/upstarts/320andup-display-table/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/upstarts/320andup-modules/index.html" afterPath="$PROJECT_DIR$/static/320andup/less/upstarts/320andup-modules/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/upstarts/320andup-panels/index.html" afterPath="$PROJECT_DIR$/static/320andup/less/upstarts/320andup-panels/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/upstarts/320andup-display-table/index.html" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/upstarts/320andup-display-table/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/upstarts/320andup-modules/index.html" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/upstarts/320andup-modules/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass-compass/upstarts/320andup-panels/index.html" afterPath="$PROJECT_DIR$/static/320andup/sass-compass/upstarts/320andup-panels/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/upstarts/320andup-display-table/index.html" afterPath="$PROJECT_DIR$/static/320andup/sass/upstarts/320andup-display-table/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/upstarts/320andup-modules/index.html" afterPath="$PROJECT_DIR$/static/320andup/sass/upstarts/320andup-modules/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/sass/upstarts/320andup-panels/index.html" afterPath="$PROJECT_DIR$/static/320andup/sass/upstarts/320andup-panels/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/upstarts/320andup-display-table/index.html" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/upstarts/320andup-display-table/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/upstarts/320andup-modules/index.html" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/upstarts/320andup-modules/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss-compass/upstarts/320andup-panels/index.html" afterPath="$PROJECT_DIR$/static/320andup/scss-compass/upstarts/320andup-panels/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/upstarts/320andup-display-table/index.html" afterPath="$PROJECT_DIR$/static/320andup/scss/upstarts/320andup-display-table/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/upstarts/320andup-modules/index.html" afterPath="$PROJECT_DIR$/static/320andup/scss/upstarts/320andup-modules/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/scss/upstarts/320andup-panels/index.html" afterPath="$PROJECT_DIR$/static/320andup/scss/upstarts/320andup-panels/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/js/jquery-1.7.2.min.js" afterPath="$PROJECT_DIR$/static/320andup/js/jquery-1.7.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/jquery-custom-chrome.html" afterPath="$PROJECT_DIR$/static/strobe/jquery-custom-chrome.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/jquery-embed-sample.html" afterPath="$PROJECT_DIR$/static/strobe/jquery-embed-sample.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/jquery.strobemediaplayback.css" afterPath="$PROJECT_DIR$/static/strobe/jquery.strobemediaplayback.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/jquery.strobemediaplayback.js" afterPath="$PROJECT_DIR$/static/strobe/jquery.strobemediaplayback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/jquery.strobemediaplaybackchrome.js" afterPath="$PROJECT_DIR$/static/strobe/jquery.strobemediaplaybackchrome.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/jsdemo.css" afterPath="$PROJECT_DIR$/static/strobe/jsdemo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/jsdemo.html" afterPath="$PROJECT_DIR$/static/strobe/jsdemo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/jsdemo.js" afterPath="$PROJECT_DIR$/static/strobe/jsdemo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/less/larger.less" afterPath="$PROJECT_DIR$/static/fa/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/less/list.less" afterPath="$PROJECT_DIR$/static/fa/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/mixins.less" afterPath="$PROJECT_DIR$/static/320andup/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/less/mixins.less" afterPath="$PROJECT_DIR$/static/fa/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/js/modernizr-2.5.3-min.js" afterPath="$PROJECT_DIR$/static/320andup/js/modernizr-2.5.3-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/modernizr.less" afterPath="$PROJECT_DIR$/static/320andup/less/modernizr.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/page.less" afterPath="$PROJECT_DIR$/static/320andup/less/page.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/less/path.less" afterPath="$PROJECT_DIR$/static/fa/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/playlists/playlist.m3u" afterPath="$PROJECT_DIR$/static/strobe/playlists/playlist.m3u" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/js/plugins.js" afterPath="$PROJECT_DIR$/static/320andup/js/plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/preview.html" afterPath="$PROJECT_DIR$/templates/preview.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/print.less" afterPath="$PROJECT_DIR$/static/320andup/less/print.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/reset.less" afterPath="$PROJECT_DIR$/static/320andup/less/reset.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/responsive-type.php" afterPath="$PROJECT_DIR$/static/320andup/responsive-type.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/responsive.html" afterPath="$PROJECT_DIR$/static/320andup/responsive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/robots.txt" afterPath="$PROJECT_DIR$/static/320andup/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/static/fa/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/js/script.js" afterPath="$PROJECT_DIR$/static/320andup/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/js/selectivizr-min.js" afterPath="$PROJECT_DIR$/static/320andup/js/selectivizr-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/setup.html" afterPath="$PROJECT_DIR$/static/strobe/setup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/site.less" afterPath="$PROJECT_DIR$/static/320andup/less/site.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/skins/smartphone-skin.xml" afterPath="$PROJECT_DIR$/static/strobe/skins/smartphone-skin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/less/spinning.less" afterPath="$PROJECT_DIR$/static/fa/less/spinning.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/less/stacked.less" afterPath="$PROJECT_DIR$/static/fa/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/strobemediaplayback-iframe-embed.html" afterPath="$PROJECT_DIR$/static/strobe/strobemediaplayback-iframe-embed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/tables.less" afterPath="$PROJECT_DIR$/static/320andup/less/tables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/skins/tablet-skin.xml" afterPath="$PROJECT_DIR$/static/strobe/skins/tablet-skin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/texture.less" afterPath="$PROJECT_DIR$/static/320andup/less/texture.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/this is font-awesome-4.2.0.txt" afterPath="$PROJECT_DIR$/static/fa/this is font-awesome-4.2.0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/thumbs.html" afterPath="$PROJECT_DIR$/static/strobe/thumbs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/typography.less" afterPath="$PROJECT_DIR$/static/320andup/less/typography.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/upstarts/320andup-display-table/upstart.less" afterPath="$PROJECT_DIR$/static/320andup/less/upstarts/320andup-display-table/upstart.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/upstarts/320andup-modules/upstart.less" afterPath="$PROJECT_DIR$/static/320andup/less/upstarts/320andup-modules/upstart.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/upstarts/320andup-panels/upstart.less" afterPath="$PROJECT_DIR$/static/320andup/less/upstarts/320andup-panels/upstart.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/320andup/less/variables.less" afterPath="$PROJECT_DIR$/static/320andup/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fa/less/variables.less" afterPath="$PROJECT_DIR$/static/fa/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/strobe/youtube-googleanalytics.html" afterPath="$PROJECT_DIR$/static/strobe/youtube-googleanalytics.html" />
+    </list>
+    <ignored path="picamera-web.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="picamera-web" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.63082904" vertical-offset="975" max-vertical-offset="1853">
+              <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+              <folding>
+                <element signature="e#23#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="camera_pi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera_pi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1770" max-vertical-offset="2618">
+              <caret line="116" column="63" selection-start-line="116" selection-start-column="63" selection-end-line="116" selection-end-column="63" />
+              <folding>
+                <element signature="e#37#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jon@hedgerows.org.uk" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/COPYRIGHT.md" />
+        <option value="$PROJECT_DIR$/LICENSE.md" />
+        <option value="$PROJECT_DIR$/templates/live.html" />
+        <option value="$PROJECT_DIR$/static/hd/live/index.html" />
+        <option value="$PROJECT_DIR$/templates/preview.html" />
+        <option value="$PROJECT_DIR$/templates/redirecthome.html" />
+        <option value="$PROJECT_DIR$/templates/video.html" />
+        <option value="$PROJECT_DIR$/static/live/preview/stream.m3u8" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/camera_pi.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="678" />
+    <option name="y" value="23" />
+    <option name="width" value="1179" />
+    <option name="height" value="932" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="picamera-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="picamera-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="picamera-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="picamera-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="picamera-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="picamera-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="picamera-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="picamera-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="picamera-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="live" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\workspace\picamera-web\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="picamera-web" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="picamera-web" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="picamera-web" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="picamera-web" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="picamera-web" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="picamera-web" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10130988-020e-46b2-a975-0500f10b3437" name="Default" comment="" />
+      <created>1423084470240</created>
+      <option name="number" value="Default" />
+      <updated>1423084470240</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="678" y="23" width="1179" height="932" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24189308" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497809" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="it works!  mostly." />
+    <option name="LAST_COMMIT_MESSAGE" value="it works!  mostly." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="316" max-vertical-offset="1088">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding>
+            <element signature="e#23#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_pi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="2261">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+          <folding>
+            <element signature="e#37#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/live.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="272">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/preview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1751">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="852" max-vertical-offset="1717">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/320base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1717">
+          <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="316" max-vertical-offset="1088">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding>
+            <element signature="e#23#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_pi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="2176">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding>
+            <element signature="e#37#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/live.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="272">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/preview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1751">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="852" max-vertical-offset="1717">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/320base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1717">
+          <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="316" max-vertical-offset="1088">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding>
+            <element signature="e#23#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_pi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2125">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#37#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="782">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="e#23#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_pi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1853">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#37#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="10931">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COPYRIGHT.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4430727" vertical-offset="0" max-vertical-offset="729">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33290157" vertical-offset="321" max-vertical-offset="22729">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/preview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.27345845" vertical-offset="408" max-vertical-offset="1751">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/320base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1717">
+          <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/redirecthome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25067025" vertical-offset="0" max-vertical-offset="746">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/live.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18553889" vertical-offset="0" max-vertical-offset="733">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/live/preview/stream.m3u8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71350616" vertical-offset="1109" max-vertical-offset="2159">
+          <caret line="96" column="39" selection-start-line="96" selection-start-column="39" selection-end-line="96" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_pi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1770" max-vertical-offset="2618">
+          <caret line="116" column="63" selection-start-line="116" selection-start-column="63" selection-end-line="116" selection-end-column="63" />
+          <folding>
+            <element signature="e#37#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63082904" vertical-offset="975" max-vertical-offset="1853">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

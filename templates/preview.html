@@ -6,7 +6,7 @@ width="426" height="240">
     <param  name="movie"
             value="/static/strobe/StrobeMediaPlayback.swf"> </param>
     <param  name="flashvars"
-            value="src=rtmp://{{ my_hostname }}/preview/live
+            value="src=rtmp://{{ my_hostname }}/{{ rtmp_stream }}
                 &streamType=live
                 &autoPlay=true
                 &controlBarAutoHide=true
@@ -25,13 +25,13 @@ width="426" height="240">
                 &muted=true
                 &verbose=false
                 &enableStageVideo=false"> </param>
-    <param  name="allowFullScreen" value="true"></param>
-    <param  name="allowscriptaccess" value="always"></param>
+    <param  name="allowFullScreen" value="true"> </param>
+    <param  name="allowscriptaccess" value="always"> </param>
     <embed
         src="/static/strobe/StrobeMediaPlayback.swf"
         type="application/x-shockwave-flash"
         allowscriptaccess="always" allowfullscreen="true" width="426" height="240"
-        flashvars="src=rtmp://{{ my_hostname }}/preview/live
+        flashvars="src=rtmp://{{ my_hostname }}/{{ rtmp_stream }}
                 &streamType=live
                 &autoPlay=true
                 &controlBarAutoHide=true
@@ -52,4 +52,46 @@ width="426" height="240">
                 &enableStageVideo=false">
     </embed>
 </object>
+<div id="StrobeMediaPlayback">
+  <!-- fallback for devices without Flash is HLS streaming -->
+  <video src=/hls/live.m3u8 width=426 height=240 autoplay controls></video>
+</div>
 {% endblock %}
+
+<!doctype html>
+<title>Live Stream - SD</title>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width, user-scalable=no">
+
+<script src=strobe/lib/swfobject.js></script>
+<script src=strobe/lib/ParsedQueryString.js></script>
+<script>
+var parameters = {
+  src: "rtmp://<?php echo $_SERVER["HTTP_HOST"]; ?>/preview/live",
+  width: 426, height: 240,
+  autoPlay: true,
+  controlBarAutoHide: true,
+  controlBarMode: "floating",
+  playButtonOverlay: false,
+  showVideoInfoOverlayOnStartUp: false,
+  optimizeBuffering : false,
+  optimizeInitialIndex: false,
+  liveBufferTime: 0.1,
+  liveDynamicStreamingBufferTime: 0.1,
+  initialBufferTime : 0.1,
+  expandedBufferTime : 0.1,
+  minContinuousPlayback : 0.1,
+  posterScaleMode: "none",
+  streamType: "live",
+  scaleMode: "none",
+  muted: true,
+  verbose: false,
+  enableStageVideo: false
+};
+
+swfobject.embedSWF("strobe/StrobeMediaPlayback.swf", "StrobeMediaPlayback",
+                   426, 240, "10.1.0", "expressInstall.swf", parameters,
+                   {allowFullScreen: "true", wmode: "opaque"},
+                   {name: "StrobeMediaPlayback"});
+</script>
+

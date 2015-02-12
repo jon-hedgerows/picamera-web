@@ -1,0 +1,10 @@
+{% extends "320base.html" %}
+{% block content %}
+    <embed
+        src="/static/strobe/StrobeMediaPlayback.swf"
+        type="application/x-shockwave-flash"
+        allowscriptaccess="always" allowfullscreen="true" width="1920" height="1080"
+        flashvars="src=rtmp://{{ my_hostname }}/live/hd&streamType=live&autoPlay=true&controlBarAutoHide=true&controlBarMode=floating&playButtonOverlay=false&showVideoInfoOverlayOnStartUp=false&optimizeBuffering=false&optimizeInitialIndex=false&liveBufferTime=0.1&liveDynamicStreamingBufferTime=0.1&initialBufferTime=0.1&expandedBufferTime=0.1&minContinuousPlayback=0.1&posterScaleMode=none&scaleMode=none&muted=true&verbose=false&enableStageVideo=false">
+    </embed>
+
+{% endblock %}
