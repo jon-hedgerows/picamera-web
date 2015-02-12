@@ -102,7 +102,9 @@ swfobject.embedSWF("/static/strobe/StrobeMediaPlayback.swf", "StrobeMediaPlaybac
 <div class="content clearfix">
 <div id="StrobeMediaPlayback">
   <!-- fallback for devices without Flash is HLS streaming -->
-  <video src='http://{{ my_hostname }}:{{ my_http_port }}{{ hls_url }}' width={{ width }} height={{ height }} autoplay controls></video>
+  <!-- add a "play" button for iOS mobile devices -->
+  <input type="button" value="Play" onclick="document.getElementById('html5livestream').play()">
+  <video id="html5livestream" src='http://{{ my_hostname }}:{{ my_http_port }}{{ hls_url }}' width={{ width }} height={{ height }} autoplay controls></video>
 </div>
 </div><!-- / content -->
 
